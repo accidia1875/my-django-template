@@ -1,0 +1,6 @@
+{
+    "repo_name": "helloworld",
+    "version": "0.1.0",
+    "db": ["sqlite", "mysql"],
+    "short_description": ""
+}
