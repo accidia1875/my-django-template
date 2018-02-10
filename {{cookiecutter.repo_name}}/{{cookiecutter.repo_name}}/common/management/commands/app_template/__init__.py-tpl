@@ -1,0 +1,1 @@
+default_app_config = '{{ ful_qualnme }}.apps.{{ camel_case_app_name }}Config'
