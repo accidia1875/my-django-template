@@ -26,20 +26,14 @@ setup(
     install_requires=requires,
     extras_require={
         'dev': {
-            'ipython': '<6'
-        },
-        'production': {
-            'uwsgi': '2.0.15',
+            'ipython': '<6',
         }
     },
     classifiers=[
         'Environment :: Console',
-        'Programming Language :: Python',
-        'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.5',
         'Framework :: Django',
         'Topic :: Internet :: WWW/HTTP',
-        'Topic :: Internet :: WWW/HTTP :: WSGI :: Application',
         'Topic :: Software Development',
     ],
 )
