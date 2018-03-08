@@ -1,5 +1,4 @@
 django<3
-djangorestframework<4
 {% if cookiecutter.db == 'mysql' -%}
 mysqlclient==1.3.12
 {% endif %}
