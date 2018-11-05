@@ -1,6 +1,6 @@
 {
     "repo_name": "helloworld",
-    "version": "0.1.0",
+    "version": "0.1.0.dev0",
     "db": ["sqlite", "mysql"],
     "short_description": "",
     "_copy_without_render": [
